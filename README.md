@@ -1,5 +1,5 @@
-## Welcome to GitHub Pages
+## Welcome to My GitHub Page
 
-You can use the [editor on GitHub](https://github.com/adithyashetty/AdithyaShetty.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I'm a full-time blogger from India. Visit my [Website](https://adithyashetty.com/about/) to know more about me.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
